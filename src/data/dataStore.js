@@ -30,7 +30,7 @@ export const FAQContent = {
 };
 
 export const pageContents = {
-  title: 'My first React app',
+  title: 'You can DO IT!',
   subtitle: 'A simple to-do app, with lists, columns and cards',
 };
 
